@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: Scenario: Check indexable filters sitemap service
+-------------------------------------------------------------------------------
+Tests run: 43, Failures: 0, Errors: 8, Skipped: 35, Time elapsed: 15.903 s <<< FAILURE! - in Scenario: Check indexable filters sitemap service
+| PSF_436057 | 200 | dimensions,searchTerm,pageTitle,heading,metaDescription,seoText | White Silicone Greases |  Time elapsed: 0.011 s  <<< ERROR!
+java.net.ConnectException: Connection refused: connect
+
+| PSF_436057 |  Time elapsed: 1.746 s  <<< ERROR!
+java.net.ConnectException: Connection refused: connect
+
+| PSF_437661 | 200 |  Time elapsed: 1.704 s  <<< ERROR!
+java.net.ConnectException: Connection refused: connect
+
+| PSF_412533 | 200 | pageTitle,searchTerm,heading |  Time elapsed: 1.776 s  <<< ERROR!
+java.net.ConnectException: Connection refused: connect
+
+| PSF_437408 | 200 |  Time elapsed: 1.85 s  <<< ERROR!
+java.net.ConnectException: Connection refused: connect
+
+| PSF_432164 | uk |  Time elapsed: 1.689 s  <<< ERROR!
+java.net.ConnectException: Connection refused: connect
+
+| PSF_430779 | jp |  Time elapsed: 1.757 s  <<< ERROR!
+java.net.ConnectException: Connection refused: connect
+
+Scenario: Check indexable filters sitemap service  Time elapsed: 1.766 s  <<< ERROR!
+java.net.ConnectException: Connection refused: connect
+

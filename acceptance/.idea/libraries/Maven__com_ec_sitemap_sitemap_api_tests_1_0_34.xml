@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.ec.sitemap:sitemap-api:tests:1.0.34">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ec/sitemap/sitemap-api/1.0.34/sitemap-api-1.0.34-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ec/sitemap/sitemap-api/1.0.34/sitemap-api-1.0.34-test-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ec/sitemap/sitemap-api/1.0.34/sitemap-api-1.0.34-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
